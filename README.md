@@ -1,3 +1,7 @@
+<div style="text-align: center;">
+    センタリングしたい文章
+</div>
+
 {: align="center"}
 職務経歴書
 藤田 肇
