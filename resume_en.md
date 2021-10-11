@@ -1,8 +1,6 @@
 <p align="center">
-    <b>職務経歴書</b><br>
-</p>
-<p align="right">
-    藤田 肇<br>
+    <b>Hajime FUJITA, Ph.D.</b><br>
+    Osaka, Japan<br>
     hajime.fujita@gmail.com
 </p>
 
