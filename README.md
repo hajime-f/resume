@@ -1,10 +1,3 @@
-<div style="text-align: center; font-size: 28px;">
-    <b>職務経歴書</b><br>
-</div>
-<p style="text-align: right;">
-    藤田 肇
-</p>
-
 # 職務経歴書
 藤田 肇
 
