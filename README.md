@@ -75,6 +75,21 @@
   - システムを設計した経験（要件定義書、基本設計書、テスト仕様書などの作成）
   - UNIX系環境でのGit/SQL/Pythonを用いた顧客提出用データ等の分析・集計
   - エンジニア採用とファシリテーションを通したチームビルディング（スクラムマスター）
+  
+#### 書籍・寄稿・学術論文
+- 成果を生み出すテクニカルライティング——トップエンジニア・研究者が実践する思考整理法（技術評論社、2019年2月19日出版）
+- 2017「人工知能が支える先進医療～医療現場に人工知能を導入するヒント」, 野村ヘルスケア・サポート＆アドバイザリー「ヘルスケアノート」, 1月30日
+- Hajime Fujita and Shin Ishii (2007), Model-based reinforcement learning for partially observable games with sampling-based state estimation, Neural Computation, vol.19(11), pp. 3051-3087.
+- Shin Ishii, Hajime Fujita, et. al. (2005), A reinforcement learning scheme for a partially-observable multi-agent game, Machine Learning, vol.59, pp.31-54<br>
+※その他 学会予稿・寄稿多数
+
+#### 講演
+- リクルートスタッフィング主催「トップエンジニアが実践する思考整理法～テクニカルライティングを用いた課題解決の基本」（2019年4月24日）
+- 日本弁理士会主催（継続研修講師）「人工知能に関連する技術・ビジネスの動向と今後の知財実務へのヒント」（2018年6月6日、同年9月20日）
+- 朝日新聞社主催 AI FORUM 2018「AIの事業計画書を書くためのビジネスパーソン講座～貴社でAI事業を成功させるために必要なリテラシーとは～」（2018年5月20日）
+- ソフトバンクC&S主催 「AI事業の売上を決める企画・営業部隊の育成戦略」（2018年5月23日）<br>
+※その他、人工知能／知的財産に関連する講演多数
+
 
 
   
