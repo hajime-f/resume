@@ -10,20 +10,18 @@
 
 ## Professional Experience
 
-#### Heart Organization, Co., Ltd. 
-- May 2020 - Aug 2021
-
-#### LISI, Inc.
-Dec 2017 - Apr 2020
+#### Heart Organization, Co., Ltd. (May 2020 - Aug 2021)
 
 
-#### FRONTEO, Inc.
-- Jan 2014 - Dec 2017
+#### LISI, Inc. (Dec 2017 - Apr 2020)
 
 
-#### Harakenzo World Patent & Trademark 
-- Jan 2011 - Dec 2013
+#### FRONTEO, Inc. (Jan 2014 - Dec 2017)
 
 
-#### Sumitomo Rubber Industries, Ltd. (DUNLOP) 
-- Aug 2007 - Dec 2010
+#### Harakenzo World Patent & Trademark (Jan 2011 - Dec 2013)
+
+
+#### Sumitomo Rubber Industries, Ltd. (Aug 2007 - Dec 2010)
+
+
