@@ -8,6 +8,11 @@
 
 - Expert at machine learning, 8+ years experience in both the academic research and a practical application.
 
+## Language
+
+- Japanese (Native)
+- English (Business Level)
+
 ## Professional Experience
 
 #### Heart Organization, Co., Ltd. (May 2020 - Aug 2021)
